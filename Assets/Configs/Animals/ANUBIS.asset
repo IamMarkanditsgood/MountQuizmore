@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: ANUBIS
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: d53997231c428664baf331132f6a3d4e, type: 3}
+  animalName: Anubis
+  animalDescription: "I weigh hearts, not words \u2014 and I guide those who walk
+    in shadows with steady hands."
+  animalAdvice:
+  - What is buried is not forgotten.
+  - The truth always waits at the end.
+  - "Someone wears a mask \u2014 look deeper. "
+  - "Don\u2019t fear the end. It is a beginning."
+  - You cannot lie to your own heart.
+  - 'Silence often speaks the loudest. '
+  - "Something lost will return \u2014 changed. "
+  - Trust the quiet path today.
+  - "You will be tested \u2014 not by others, but by yourself."
+  - 'A final decision is near. Prepare. '
+  - 'Someone close hides a heavy truth. '
+  - "Listen to your intuition \u2014 it remembers what you forgot."
+  - "Judgment is coming \u2014 be honest now. "
+  - 'Not all shadows wish you harm. '
+  - "Be still \u2014 clarity will find you. "
+  - "The answer lies in what you\u2019ve been avoiding."
+  - "Your strength is not noise \u2014 it is knowing. "
+  - "You are ready to let go \u2014 even if it hurts. "
+  - 'Protect your peace like a sacred tomb. '
+  - 'Someone underestimates your patience.   '
+  - 'What ended yesterday still echoes. '
+  - 'You do not need to be loud to be powerful. '
+  - 'A truth long hidden is ready to emerge. '
+  - The heart does not forget.
+  - 'Carry only what matters. '
+  - 'Do not run from grief. Walk with it. '
+  - 'You know what must be buried. '
+  - Not every goodbye is forever.
+  - Stay close to what is real.
+  - "The past calls \u2014 answer wisely. "
+  - You are not alone in the dark.
+  - Even silence has a guardian.
+  - Something sacred needs your protection.
+  - "One chapter closes \u2014 let it. "
+  - 'You were not wrong to feel what you felt. '
+  - The mirror will not lie today.
+  - 'Remember who you were before fear. '
+  - Your stillness is not weakness.
+  - 'Some bridges must remain crossed. '
+  - 'What is dead may yet speak. '
+  - 'The weight of your heart is changing. '
+  - 'Let truth rise like dust in sunlight. '
+  - Do not rush the ceremony
+  - "Someone speaks kindly \u2014 but not honestly."
+  - "Today\u2019s silence is sacred."
+  - "You are being watched \u2014 with reverence. "
+  - 'A soul near you is restless. Help it.   '
+  - 'Say what must be said. No more waiting. '
+  - 'Not every ending needs noise. '
+  - 'You walk with ancestors. '
+  scorePrice: 3000
+  pointsPrice: 7

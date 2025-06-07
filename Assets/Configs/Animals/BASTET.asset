@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: BASTET
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: 5aa3a4a65e35cb34ea9913607d1ac96a, type: 3}
+  animalName: Bastet
+  animalDescription: "I am Bastet \u2014 protector, trickster, comforter. I guard
+    with claws and heal with purrs. Don\u2019t mistake softness for weakness."
+  animalAdvice:
+  - "Someone is lying \u2014 and you already know who.   "
+  - 'Stretch before you strike.   '
+  - "If it doesn\u2019t serve you, knock it off the shelf."
+  - 'Not everything soft is safe. '
+  - "Curiosity isn't a flaw \u2014 it\u2019s a skill. "
+  - 'Guard your peace like a sunbeam. '
+  - 'Not every fight is worth your claws. '
+  - "You\u2019ve been too polite. Try claws. "
+  - 'Someone underestimates you. Surprise them. '
+  - 'The best revenge is ignoring them completely.   '
+  - "Take a nap. That\u2019s an order. "
+  - "You don\u2019t owe warmth to everyone. "
+  - "You\u2019re cute when you\u2019re dangerous. "
+  - Some rules are made to be pounced on.
+  - "Be still \u2014 but ready. "
+  - "Don\u2019t chase. Watch it come to you. "
+  - "That \u201Ccoincidence\u201D was your intuition. "
+  - "A little chaos won\u2019t hurt. "
+  - Someone admires your independence.
+  - 'You shine brighter when you stop explaining. '
+  - 'That drama? Not your problem. '
+  - "Let them think you\u2019re harmless. "
+  - 'Sleep on it. Literally. '
+  - "Fluff your ego today \u2014 you\u2019ve earned it."
+  - "You're not lazy \u2014 you're conserving power"
+  - Don't answer every call. Especially theirs.
+  - 'Sometimes the softest growl says the most. '
+  - Mysterious suits you. Keep it up.
+  - 'If they can''t handle your claws, they don''t deserve the purrs. '
+  - 'Distract, disarm, dominate. '
+  scorePrice: 3000
+  pointsPrice: 7

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15289aee0af8cfc40a16afa0fc96732a, type: 3}
+  m_Name: Quiz 9
+  m_EditorClassIdentifier: 
+  questions:
+  - question: What was considered a magical word of power?
+    answers:
+    - Ka
+    - 'Heka '
+    - Kemet
+    - "Ma\u2019at"
+    correctAnswer: 1
+  - question: 'Who was believed to be the first magician? '
+    answers:
+    - Ra
+    - 'Isis '
+    - Thoth
+    - Anubis
+    correctAnswer: 1
+  - question: The Egyptians believed in how many souls or parts of a person?
+    answers:
+    - One
+    - Three
+    - Five
+    - 'Multiple '
+    correctAnswer: 3

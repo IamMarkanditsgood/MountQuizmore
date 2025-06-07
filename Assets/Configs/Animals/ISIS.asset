@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: ISIS
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: 070f7598302c50a4e9b050e8bc03bb20, type: 3}
+  animalName: Isis
+  animalDescription: "I am Isis \u2014 healer, mother, magician. I mend what others
+    break and protect what others forget."
+  animalAdvice:
+  - You are more whole than you feel.
+  - "A broken bond can be mended \u2014 if you wish it. "
+  - What you nurture will thrive.
+  - 'Not all healing is soft. '
+  - 'You carry ancient strength in your care. '
+  - 'A truth will reveal itself in gentleness. '
+  - 'Someone close needs your calm, not your answers. '
+  - "You are protected \u2014 even unseen. "
+  - 'What you love is worth fighting for. '
+  - "Speak your grief \u2014 it will not break you"
+  - 'Someone remembers your kindness. '
+  - 'Magic blooms in quiet choices. '
+  - 'Do not fear your softness.   '
+  - 'A gesture of compassion will open the way. '
+  - What you hold sacred will guide you.
+  - "You are not alone \u2014 not now, not ever."
+  - Even shattered things can shine.
+  - 'Love does not make you weak. '
+  - 'Let memory teach, not trap. '
+  - "You are someone\u2019s safe place."
+  - Let your wisdom soothe your fear.
+  - "Today asks for grace \u2014 give it first to yourself. "
+  - Healing takes time, not permission.
+  - 'Trust the magic in your hands. '
+  - 'A scar is proof of survival. '
+  - 'Rebuild with tenderness. '
+  - "Offer help \u2014 even if unasked. "
+  - 'Someone hides pain with pride. '
+  - "Your intuition will speak clearly \u2014 if you listen. "
+  - 'What you restore will become stronger. '
+  scorePrice: 3000
+  pointsPrice: 7
