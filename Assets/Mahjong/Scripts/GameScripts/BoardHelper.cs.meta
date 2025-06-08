@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: fedb742cabc4ebf4a8af60fefcfe4f41
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307235
+  packageName: MK - Grand Mahjong Game
+  packageVersion: 1.0
+  assetPath: Assets/Mahjong/Scripts/GameScripts/BoardHelper.cs
+  uploadId: 722904

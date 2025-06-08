@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b6749c1103916044b2a7254a46c04f1, type: 3}
+  m_Name: AvatarsHolder
+  m_EditorClassIdentifier: 
+  avatars:
+  - {fileID: 21300000, guid: 95235718cbd2b094d9f2d2972c2cf95d, type: 3}
+  - {fileID: 21300000, guid: 65997d5e74d84834e8ef9e30f7017c9b, type: 3}
+  - {fileID: 21300000, guid: b3e17163f2467664db96cd62e87209d3, type: 3}
+  - {fileID: 21300000, guid: c3a2801905f98ac4e98bf0bcc70be86c, type: 3}
+  - {fileID: 21300000, guid: fd6cbdfbee5f7fe4a8f54b764f8f2baf, type: 3}
+  - {fileID: 21300000, guid: 0b545304dbe44cb4e9962ca601b72419, type: 3}
+  - {fileID: 21300000, guid: 7d699caed2a198f489c4880983ba16ef, type: 3}
+  - {fileID: 21300000, guid: 8316fbc032929ec4a8345869090557c9, type: 3}
+  saveKey: mk_avatar
+  ChangeUnityEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  LoadUnityEvent:
+    m_PersistentCalls:
+      m_Calls: []

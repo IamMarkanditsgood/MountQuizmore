@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57fe654d3e5ce0d43a659fe7370f7a06
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307235
+  packageName: MK - Grand Mahjong Game
+  packageVersion: 1.0
+  assetPath: Assets/Mahjong/Prefabs/MahjongTile2x2.prefab
+  uploadId: 722904
