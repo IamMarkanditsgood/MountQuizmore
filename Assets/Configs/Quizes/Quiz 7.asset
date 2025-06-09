@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: Quiz 7
   m_EditorClassIdentifier: 
   questions:
-  - question: 'What was the purpose of mummification? '
+  - question: 'What lesson did the myth of Arachne teach? '
     answers:
-    - Decoration
-    - Trade
-    - Preservation for afterlife
-    - Sacrifice
+    - 'Speak loudly '
+    - "Don\u2019t show talent "
+    - "Don\u2019t challenge the gods"
+    - Weaving is dangerous
     correctAnswer: 2
-  - question: What ritual opened the senses of a mummy?
+  - question: What did Athena do to Arachne?
     answers:
-    - 'Feather balancing '
-    - Eye painting
-    - Opening of the Mouth
-    - Anointing
+    - Made her queen
+    - 'Gave her riches '
+    - Turned her into a spider
+    - ' Banished her'
     correctAnswer: 2
-  - question: 'Offerings in temples were usually: '
+  - question: 'What quality does Athena value most? '
     answers:
-    - Bread, beer, incense
-    - Jewelry
-    - Slaves
-    - Stones
-    correctAnswer: 0
+    - Strength
+    - Loyalty
+    - 'Wisdom '
+    - Beauty
+    correctAnswer: 2

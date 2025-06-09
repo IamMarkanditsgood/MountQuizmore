@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: Quiz 6
   m_EditorClassIdentifier: 
   questions:
-  - question: Bastet is associated with which animal?
+  - question: "Who is Athena\u2019s half-brother and rival in war?"
     answers:
-    - Falcon
-    - Jackal
-    - 'Cat '
-    - Cow
+    - Hermes
+    - Apollo
+    - 'Ares '
+    - Dionysus
     correctAnswer: 2
-  - question: 'The crocodile god is named:'
+  - question: 'Which goddess often clashed with Athena? '
     answers:
-    - 'Sobek '
-    - Apophis
-    - Khonsu
-    - Horus
-    correctAnswer: 1
-  - question: 'The Ibis is sacred to: '
+    - 'Aphrodite '
+    - Demeter
+    - Hestia
+    - Persephone
+    correctAnswer: 0
+  - question: Athena was a mentor to which Greek hero?
     answers:
-    - Osiris
-    - Ra
-    - 'Thoth '
-    - Set
+    - Achilles
+    - Theseus
+    - 'Odysseus '
+    - Perseus
     correctAnswer: 2

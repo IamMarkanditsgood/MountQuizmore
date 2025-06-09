@@ -71,7 +71,6 @@ public class Home : BasicScreen
 
     private void ConfigureSceen()
     {
-       
         SetText();
         SetButtons();
         bird.sprite = animals[currentAnimal].art;

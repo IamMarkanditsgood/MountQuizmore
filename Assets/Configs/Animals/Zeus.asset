@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: Zeus
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: 84bf86ac27195db4793d8f890816af60, type: 3}
+  animalName: Zeus
+  animalDescription: "I am Zeus, ruler of Olympus \u2014 my words strike like thunder,
+    and my foresight is as clear as the storm's eye."
+  animalAdvice:
+  - Thunder will clear your doubts
+  - 'A bold choice brings reward. '
+  - "Storms pass \u2014 wisdom stays."
+  - Fear not the challenge ahead.
+  - Speak truth, and skies will part.
+  - 'Silence holds your next answer. '
+  - "Trust lightning \u2014 it never strikes without aim."
+  - 'The skies are watching. '
+  - 'Power will test your patience. '
+  - 'Someone below envies your strength. '
+  - Destiny waits at your next step.
+  - 'You are stronger than you believe. '
+  - "Obey your instincts \u2014 they are divine. "
+  - 'Winds shift in your favor. '
+  - 'Protect what you command.   '
+  - Thunder is not always loud.
+  - "Keep your promise \u2014 even to the sky. "
+  - 'Leadership is earned in silence. '
+  - A mighty presence watches over you.
+  - 'Respect brings power. '
+  - Delay is not denial.
+  - 'Your voice will carry.   '
+  - 'Beware the quiet ones. '
+  - 'A rival watches your path. '
+  - Glory comes from endurance.
+  - 'Storms reveal true faces. '
+  - "Do not beg for lightning \u2014 become it. "
+  - 'Be the calm above the thunder. '
+  - 'Respect is a greater force than fear. '
+  - "Rise \u2014 Olympus favors courage. "
+  - 'Your journey echoes in the clouds. '
+  - 'Rule your emotions or they will rule you.   '
+  - "Do not fear the fall \u2014 fear not rising. "
+  - 'Your silence holds weight. '
+  - 'What you command, you must also protect. '
+  - 'Power misused becomes thunder wasted. '
+  - 'Someone close hides thunder in their heart. '
+  - 'Your presence brings clarity. '
+  - Truth will roar soon
+  - "Ask \u2014 the skies may answer. "
+  - 'A great shift approaches. '
+  - 'Speak boldly today. '
+  - 'Clouds gather for a reason. '
+  - 'Prepare for triumph. '
+  - 'Your justice will shake others. '
+  - 'Honor finds you in still moments. '
+  - "Do not chase the storm \u2014 stand in it.   "
+  - 'All thunder starts with a whisper. '
+  - "Watch what rises \u2014 it may fall quickly."
+  - 'Lightning clears more than fire. '
+  scorePrice: 3000
+  pointsPrice: 7

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: Hades
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: d3cdc3223540aa04ebe1898499937356, type: 3}
+  animalName: Hades
+  animalDescription: "I am Hades \u2014 I see what others avoid, and I speak only
+    what must be heard."
+  animalAdvice:
+  - 'Not all endings are losses. '
+  - What fades will soon return.
+  - '  Silence brings your answer. '
+  - "Let go \u2014 it\u2019s time."
+  - The unseen is guiding you.
+  - "  You\u2019re standing on ancient truth. "
+  - Someone hides a truth you already suspect.
+  - "There\u2019s power in shadows. "
+  - '  Your calm unsettles them. '
+  - A final word still echoes.
+  - Transformation begins in darkness.
+  - You will reclaim what was lost.
+  - '  Watch the quiet patterns. '
+  - '  What disappears is not gone. '
+  - '  An ending will bless you. '
+  - The roots go deeper than you think.
+  - Listen to what no one says aloud.
+  - Dust does not lie.
+  - "What\u2019s forgotten still remembers you."
+  - "A door has quietly closed \u2014 and another has opened. "
+  - '  Your silence has weight. '
+  - They fear your depth.
+  - Wait. The truth is surfacing.
+  - Pain has a message.
+  - "You\u2019re closer to resolution than you think."
+  - A cycle ends soon.
+  - Death is just a different kind of change.
+  - '  Shadows are not your enemy. '
+  - You already survived the worst.
+  - "  There\u2019s more strength in stillness. "
+  - 'What is buried is not broken. '
+  - "  Don\u2019t fear what others avoid. "
+  - A legacy stirs.
+  - Rest is sacred.
+  - You see further than they realize.
+  - he past has its eyes on you.
+  - Your strength was earned in silence.
+  - Soon, things will make sense.
+  - The cost was worth it.
+  - "  Let what must fall \u2014 fall. "
+  - You are already on the other side.
+  - An old cycle is releasing you
+  - "You don\u2019t need their light."
+  - '  Someone underestimated your silence. '
+  - "  Don\u2019t rush what takes root in shadow. "
+  - A truth long hidden rises soon.
+  - '  They will remember what you buried. '
+  - Still waters see far.
+  - Your steadiness is terrifying.
+  scorePrice: 3000
+  pointsPrice: 7

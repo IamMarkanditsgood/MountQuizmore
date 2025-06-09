@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: Hera
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: f8d4ec4ef91e39d45b6da5b23cefaaf6, type: 3}
+  animalName: Hera
+  animalDescription: "I am Hera, queen of Olympus \u2014 I see the bonds that hold
+    the world together, and I do not take loyalty lightly."
+  animalAdvice:
+  - 'Loyalty will be tested soon. '
+  - 'A promise is watching you. '
+  - "What\u2019s hidden in the heart will rise. "
+  - 'Honor what you protect. '
+  - "Someone\u2019s word means more than it seems. "
+  - "A bond will either break \u2014 or deepen. "
+  - 'Trust should be earned again. '
+  - 'Look closer at their silence. '
+  - A union forms in quiet.
+  - Dignity is your anchor.
+  - "Respect will return \u2014 multiplied."
+  - 'Power and grace must walk together. '
+  - They notice how you carry yourself.
+  - 'Your loyalty is your crown. '
+  - Protect what truly matters.
+  - Someone holds you in high regard.
+  - "You\u2019ll see the truth in someone\u2019s eyes. "
+  - "Stand tall \u2014 others will follow. "
+  - 'A shift in your inner circle is near. '
+  - The future will honor your patience.
+  - You are seen by those who matter.
+  - Lead with pride, not noise.
+  - Do not chase what should be sacred.
+  - What you build now will outlast storms.
+  - Devotion will light your path.
+  - "Speak your worth \u2014 firmly."
+  - You are stronger in stillness.
+  - They admire your standards.
+  - A vow is whispering back to you.
+  - Self-respect will open a new door.
+  scorePrice: 3000
+  pointsPrice: 7

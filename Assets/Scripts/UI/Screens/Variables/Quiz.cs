@@ -48,6 +48,8 @@ public class Quiz : BasicScreen
 
     public TMP_Text rewardText;
 
+    private bool canPress;
+
     void Start()
     {
         LoadNextAvailableTime();
@@ -104,6 +106,7 @@ public class Quiz : BasicScreen
 
     public override void SetScreen()
     {
+        canPress = true;
         UpdateUI();
         SetText();
     }
@@ -146,6 +149,7 @@ public class Quiz : BasicScreen
             repliesText[i].color = Color.white;
         }
         question.text = currentQuiz.questions[currentQuestion].question;
+        canPress = true;
     }
 
     private void FinishGame()
@@ -207,6 +211,8 @@ public class Quiz : BasicScreen
    
     private void Choose(int index)
     {
+        if (!canPress) return;
+
         answerButton.interactable = true;
         currentChoose = index;
         foreach (var button in repliesButton)
@@ -222,6 +228,8 @@ public class Quiz : BasicScreen
     }
     private void Answer()
     {
+        if (!canPress) return;
+        canPress = false;
         answerButton.interactable = false;
         bool isCorrect = CheckReply();
         if (isCorrect)
@@ -299,6 +307,7 @@ public class Quiz : BasicScreen
 
     private void Back()
     {
+        if (!canPress) return;
         UIManager.Instance.ShowScreen(ScreenTypes.Home);
     }
 }

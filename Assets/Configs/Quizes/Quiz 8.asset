@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: Quiz 8
   m_EditorClassIdentifier: 
   questions:
-  - question: 'Hieroglyphs were primarily used for:'
+  - question: 'What are the scroll-like designs on Greek columns called? '
     answers:
-    - Recipes
-    - Religious texts
-    - Cartoons
-    - Laws
+    - Spirals
+    - Swirls
+    - 'Volutes '
+    - Crests
+    correctAnswer: 2
+  - question: What are the three classical Greek column styles?
+    answers:
+    - ' Square, round, flat'
+    - Ionic, Doric, Corinthian
+    - 'Thin, tall, short '
+    - ' Flat, wide, twisted '
     correctAnswer: 1
-  - question: Who decoded the Rosetta Stone?
+  - question: 'What did Athena inspire in cities? '
     answers:
-    - 'Champollion '
-    - Napoleon
-    - 'Howard Carter '
-    - Petrie
-    correctAnswer: 0
-  - question: 'What does a cartouche signify? '
-    answers:
-    - "A priest\u2019s tools "
-    - A royal name
-    - A weapon
-    - A burial chant
-    correctAnswer: 1
+    - War
+    - Strategy
+    - 'Architecture '
+    - Dance
+    correctAnswer: 2

@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: Quiz 4
   m_EditorClassIdentifier: 
   questions:
-  - question: 'What is the Egyptian "Book of the Dead"? '
+  - question: "What item is associated with Athena\u2019s protection?"
     answers:
-    - A list of gods
-    - A burial songbook
-    - A guide to the afterlife
-    - ' A royal census'
+    - 'Shield '
+    - Sword
+    - Flame
+    - Cup
+    correctAnswer: 0
+  - question: 'What magical creature did Athena turn Medusa into? '
+    answers:
+    - Centaur
+    - Harpy
+    - 'Gorgon '
+    - Siren
     correctAnswer: 2
-  - question: What organ was weighed to determine one's fate in the afterlife?
+  - question: The Aegis is a...
     answers:
-    - Liver
-    - Brain
-    - 'Heart '
-    - Lungs
-    correctAnswer: 2
-  - question: Who devoured unworthy souls?
-    answers:
-    - Hathor
-    - 'Ammit '
-    - Sobek
-    - Seth
-    correctAnswer: 1
+    - Book
+    - Cloak
+    - 'Sacred helmet '
+    - 'Protective shield '
+    correctAnswer: 3

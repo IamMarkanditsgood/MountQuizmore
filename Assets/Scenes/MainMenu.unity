@@ -405,14 +405,14 @@ MonoBehaviour:
   - {fileID: 885919989}
   - {fileID: 2082591242}
   openedAchievements:
-  - {fileID: 21300000, guid: 75549b7bd756d5044805deb9587e5135, type: 3}
-  - {fileID: 21300000, guid: f37b3883248d0c8479dcb5c587f34a82, type: 3}
-  - {fileID: 21300000, guid: c4ab437fdd8f6c74a8492c48daccbf60, type: 3}
-  - {fileID: 21300000, guid: 26250b22499c16d488cdbc0bbc1878e0, type: 3}
-  - {fileID: 21300000, guid: 67c71a49b7694594cb5fb53fa879aa21, type: 3}
-  - {fileID: 21300000, guid: c0a7da8d32f63bb4889a9fd0b9ba36d1, type: 3}
-  - {fileID: 21300000, guid: d15b3fa8596ca4047a770cf3082aafc4, type: 3}
-  - {fileID: 21300000, guid: ad3a17af336f0aa4887a0ecea561aabb, type: 3}
+  - {fileID: 21300000, guid: 79060dfc2aeadce45b80111d70f2736b, type: 3}
+  - {fileID: 21300000, guid: 5aadcb1dd696b50499a2af956ace5421, type: 3}
+  - {fileID: 21300000, guid: 5efa56862c7034d44a0bc8068f5018a2, type: 3}
+  - {fileID: 21300000, guid: 671f70261bcb71c45974b5a373132c5d, type: 3}
+  - {fileID: 21300000, guid: ddd43ab58d435e645b4420a975b17cb4, type: 3}
+  - {fileID: 21300000, guid: a9282a15b04044246aa50def435d8271, type: 3}
+  - {fileID: 21300000, guid: 637e0a49bd4ea4b4baa2488bb191e0cb, type: 3}
+  - {fileID: 21300000, guid: 5199b4a8ac1c1e94a9d8d3ca38fa445d, type: 3}
 --- !u!1 &34545115
 GameObject:
   m_ObjectHideFlags: 0
@@ -700,10 +700,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1842720542}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.03815233, y: 0.5906428}
-  m_AnchorMax: {x: 0.4618643, y: 0.66830593}
+  m_AnchorMin: {x: 0.08174207, y: 0.5906428}
+  m_AnchorMax: {x: 0.50545406, y: 0.66830593}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0.0000019073486, y: 0.000019073486}
+  m_SizeDelta: {x: 0, y: 0.0000047683716}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &70843589
 MonoBehaviour:
@@ -1777,13 +1777,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 370457156}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 784583550}
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.042074874, y: 0.59933674}
   m_AnchorMax: {x: 0.12734145, y: 0.75783104}
   m_AnchoredPosition: {x: -0.000061035156, y: 0}
@@ -1819,7 +1819,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: 32364ab5d3b76b745a8c64015fdb8f1d, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 7f138c9f878ef6d409dfd8a71ed7c750, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -1853,7 +1853,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 58025700ae4d39342857e5a5738066d2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4fa91ddefb4235447a00d252e56e20e4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2151,28 +2151,28 @@ MonoBehaviour:
   _popupType: 1
   _closeButton: {fileID: 250186335}
   achiveData:
-  - image: {fileID: 21300000, guid: bf651f96428f31c4f9d0d304af1b03f0, type: 3}
+  - image: {fileID: 21300000, guid: fafb47a15c871ab4899267a49bb77989, type: 3}
     name: 'First Prophecy '
     description: Get your first prediction from a god.
-  - image: {fileID: 21300000, guid: 0c252c600705f6d488c8cb6aaf8dd97e, type: 3}
+  - image: {fileID: 21300000, guid: 87a870a0fff6b4749babe13b9e8e6c57, type: 3}
     name: Quiz Adept
     description: Answer 5 quiz questions correctly in one session.
-  - image: {fileID: 21300000, guid: 3690ffc4755190348bba5861885794fb, type: 3}
+  - image: {fileID: 21300000, guid: 94723643d84ede0488ee0915a38e89b1, type: 3}
     name: Insightful One
     description: Receive 10 divine predictions.
-  - image: {fileID: 21300000, guid: 9efc70ed4a6c08e4cbb4b1d2b8e382bf, type: 3}
+  - image: {fileID: 21300000, guid: 89e67bdb30043f347a5f78c2f2aaa66a, type: 3}
     name: Bright Mind
     description: Answer 3 quiz questions correctly in one session.
-  - image: {fileID: 21300000, guid: 6666eda1037dccc4daae7382214b14e4, type: 3}
+  - image: {fileID: 21300000, guid: 16ad341de5f08004aa91f3f2c6e3ea9d, type: 3}
     name: God Seeker
     description: Unlock 3 different gods.
-  - image: {fileID: 21300000, guid: 45ac1ffee02ad324f8c3ab78c3b58802, type: 3}
+  - image: {fileID: 21300000, guid: dad27a41a46388149a8032ecf8e6d5e5, type: 3}
     name: Pantheon Unlocked
     description: Unlock all gods in the temple.
-  - image: {fileID: 21300000, guid: e803197e6f73d77459d7c1de07680a85, type: 3}
+  - image: {fileID: 21300000, guid: a5968a32fd816fe4194c459a8782b16d, type: 3}
     name: Riddle Master
     description: Defeat the Sphinx in the obstacle mini-game.
-  - image: {fileID: 21300000, guid: b0e77976d87dd0240a6ffc211cabd2c9, type: 3}
+  - image: {fileID: 21300000, guid: f69100d042bf06d48a0ccc4850df749b, type: 3}
     name: Oracle Whisperer
     description: Receive 50 predictions from the gods.
   art: {fileID: 2042211865}
@@ -7541,13 +7541,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1349472746}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 300459640}
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.04240924, y: 0.47971046}
   m_AnchorMax: {x: 0.12762256, y: 0.5202895}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -7583,7 +7583,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: 32364ab5d3b76b745a8c64015fdb8f1d, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 7f138c9f878ef6d409dfd8a71ed7c750, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -7617,7 +7617,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 58025700ae4d39342857e5a5738066d2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4fa91ddefb4235447a00d252e56e20e4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9896,10 +9896,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1842720542}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.4791885, y: 0.59064275}
-  m_AnchorMax: {x: 0.8972736, y: 0.66830593}
+  m_AnchorMin: {x: 0.5227783, y: 0.59064275}
+  m_AnchorMax: {x: 0.9408634, y: 0.66830593}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: -0.0000038146973}
+  m_SizeDelta: {x: 0, y: -0.0000009536743}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1827850672
 MonoBehaviour:

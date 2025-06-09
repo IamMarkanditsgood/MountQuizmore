@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: Hermes
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: cca69d2794593774f860a8f66dd2b88c, type: 3}
+  animalName: Hermes
+  animalDescription: "I am Hermes \u2014 messenger of gods, master of wit, and the
+    whisper behind every clever escape."
+  animalAdvice:
+  - Timing will save you.
+  - A shortcut is about to appear.
+  - "Don\u2019t trust the obvious choice."
+  - "You're three steps ahead \u2014 use it."
+  - Laugh before they expect it.
+  - 'A clever twist is coming. '
+  - You're faster than the problem.
+  - "Deliver your idea \u2014 it matters."
+  - 'Someone underestimated you. '
+  - "You\u2019re about to outsmart them."
+  - Flexibility is your hidden weapon.
+  - "Trust the mischief \u2014 it has purpose."
+  - The trick is in the details.
+  - "They won\u2019t see it coming."
+  - A message is on its way.
+  - "You\u2019re the fastest thinker in the room."
+  - Use your charm wisely.
+  - Distraction may be your ally.
+  - A stolen moment brings clarity.
+  - That risky idea? Try it.
+  - "Someone\u2019s bluffing \u2014 you know who."
+  - A joke will open the door.
+  - Silence is suspicious today.
+  - "Step sideways \u2014 not back."
+  - Confusion creates advantage.
+  - Your grin hides strategy.
+  - Run with the idea before it fades.
+  - You were born for improvisation.
+  - Flip the script.
+  - Your word will travel fast.
+  scorePrice: 3000
+  pointsPrice: 7

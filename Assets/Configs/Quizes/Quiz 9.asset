@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: Quiz 9
   m_EditorClassIdentifier: 
   questions:
-  - question: What was considered a magical word of power?
+  - question: "What modern word comes from Athena\u2019s name? "
     answers:
-    - Ka
-    - 'Heka '
-    - Kemet
-    - "Ma\u2019at"
+    - 'Athletic '
+    - Logic
+    - Magic
+    - Warrior
+    correctAnswer: 0
+  - question: What does an owl symbolize today?
+    answers:
+    - Speed
+    - Power
+    - 'Wisdom '
+    - Mystery
+    correctAnswer: 2
+  - question: 'In modern stories, Athena would likely be... '
+    answers:
+    - A soldier
+    - A scientist
+    - A singer
+    - A thief
     correctAnswer: 1
-  - question: 'Who was believed to be the first magician? '
-    answers:
-    - Ra
-    - 'Isis '
-    - Thoth
-    - Anubis
-    correctAnswer: 1
-  - question: The Egyptians believed in how many souls or parts of a person?
-    answers:
-    - One
-    - Three
-    - Five
-    - 'Multiple '
-    correctAnswer: 3

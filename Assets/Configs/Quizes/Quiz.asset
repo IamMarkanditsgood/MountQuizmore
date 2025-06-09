@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: Quiz
   m_EditorClassIdentifier: 
   questions:
-  - question: 'Who is known as the god of the sun? '
+  - question: "What is Athena\u2019s most famous animal symbol? "
     answers:
-    - Osiris
-    - Thoth
-    - 'Ra '
-    - Anubis
-    correctAnswer: 2
-  - question: 'Which goddess is associated with motherhood and magic? '
-    answers:
-    - Sekhmet
-    - 'Isis '
-    - Nephthys
-    - "Ma\u2019at"
+    - Horse
+    - 'Owl '
+    - Snake
+    - Eagle
     correctAnswer: 1
-  - question: 'Who guards the underworld and weighs the heart? '
+  - question: What item is often shown with Athena to represent knowledge?
     answers:
-    - Horus
-    - Ptah
-    - 'Anubis '
-    - Sobek
+    - Spear
+    - Torch
+    - 'Scroll '
+    - Hammer
     correctAnswer: 2
+  - question: 'Athena was born from whose head? '
+    answers:
+    - Apollo
+    - Hera
+    - Cronus
+    - 'Zeus '
+    correctAnswer: 3

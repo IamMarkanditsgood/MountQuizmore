@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: Quiz 2
   m_EditorClassIdentifier: 
   questions:
-  - question: Where is the Temple of Karnak located?
+  - question: 'What is Athena the goddess of? '
     answers:
-    - Giza
-    - 'Thebes '
-    - Memphis
-    - Saqqara
-    correctAnswer: 1
-  - question: 'Which temple is dedicated to Ramses II? '
-    answers:
-    - 'Kom Ombo '
-    - Edfu
-    - 'Abu Simbel '
-    - Luxor
+    - Music
+    - Love
+    - War and wisdom
+    - Magic
     correctAnswer: 2
-  - question: Who were temples primarily built for?
+  - question: Who competed against Athena to become the patron of Athens?
     answers:
-    - Common people
-    - Priests
-    - Pharaohs
-    - 'Gods '
-    correctAnswer: 3
+    - Hades
+    - 'Poseidon '
+    - Hera
+    - Artemis
+    correctAnswer: 1
+  - question: 'What gift did Athena offer to win the contest? '
+    answers:
+    - A horse
+    - 'A sword '
+    - An olive tree
+    - A golden apple
+    correctAnswer: 2

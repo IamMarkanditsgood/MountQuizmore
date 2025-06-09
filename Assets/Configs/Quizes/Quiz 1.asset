@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: Quiz 1
   m_EditorClassIdentifier: 
   questions:
-  - question: 'What part of Osiris did Isis struggle to recover? '
+  - question: 'What was the capital of Ancient Greece? '
     answers:
-    - Heart
-    - Brain
-    - Tongue
-    - 'Phallus '
-    correctAnswer: 3
-  - question: 'Who battled Set for the throne of Egypt? '
+    - 'Athens '
+    - Sparta
+    - Delphi
+    - Mycenae
+    correctAnswer: 0
+  - question: What was the primary material for Greek columns?
     answers:
-    - Ra
-    - Thoth
-    - 'Horus '
-    - Geb
-    correctAnswer: 2
-  - question: 'Which goddess represents cosmic balance and order? '
+    - Wood
+    - 'Marble '
+    - Clay
+    - Bronze
+    correctAnswer: 1
+  - question: 'What is the Parthenon? '
     answers:
-    - Tefnut
-    - Hathor
-    - "Ma\u2019at "
-    - Nut
+    - 'A ship '
+    - 'A war helmet '
+    - A temple
+    - 'A type of armor '
     correctAnswer: 2

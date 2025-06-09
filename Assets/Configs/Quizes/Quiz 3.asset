@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: Quiz 3
   m_EditorClassIdentifier: 
   questions:
-  - question: 'What does the Ankh symbol represent? '
+  - question: "Which game most reflects Athena\u2019s values?"
     answers:
-    - Death
-    - War
-    - 'Life '
-    - Power
-    correctAnswer: 2
-  - question: ' The scarab beetle symbolizes: '
-    answers:
-    - Destruction
-    - The Nile
-    - 'Rebirth '
-    - Darkness
-    correctAnswer: 2
-  - question: 'What is the Eye of Horus a symbol of? '
-    answers:
-    - Strength
-    - 'Protection '
-    - Fire
-    - Chaos
+    - Dice
+    - 'Chess '
+    - Tag
+    - Cards
     correctAnswer: 1
+  - question: Athena prefers which type of decision-making?
+    answers:
+    - Emotional
+    - Random
+    - 'Strategic '
+    - Quick
+    correctAnswer: 2
+  - question: 'A wise person should... '
+    answers:
+    - 'Speak first '
+    - 'Always win '
+    - Listen carefully
+    - 'Be popular '
+    correctAnswer: 2
